@@ -1,4 +1,4 @@
-# assemble-markdown-data
+# assemble-markdown-import
 
 > An [Assemble](http://assemble.io) plugin for importing and parsing of markdown from data sources.
 
