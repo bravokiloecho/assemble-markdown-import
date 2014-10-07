@@ -11,7 +11,7 @@ First, setup a project with Grunt and Assemble.
 Then install the plugin: 
 
 ```sh
-npm install --save-dev assemble-markdown-data
+npm install --save-dev assemble-markdown-import
 ```
 
 Add the plugin to your Grunt assemble config:
