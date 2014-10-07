@@ -1,7 +1,7 @@
 {
   "name": "assemble-markdown-import",
   "version": "0.0.1",
-  "description": "An Assemble plugin for importaing and parsing of markdown from data sources.",
+  "description": "An Assemble plugin for importing and parsing of markdown from data sources.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
