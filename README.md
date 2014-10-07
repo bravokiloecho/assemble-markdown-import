@@ -44,7 +44,7 @@ Resulting JavaScript object:
 ```js
 {
   "name": "Julio Barnes",
-  "about": "<h2>I am Julio</h2><p>I am...<ul><li>Brave</li><li>Strong</li><li>Noble</li></ul><p>I also like pudding.</p>,
+  "about": "<h2>I am Julio</h2><p>I am...<ul><li>Brave</li><li>Strong</li><li>Noble</li></ul><p>I also like pudding.</p>",
   "age": 64
 }
 ```
