@@ -1,6 +1,6 @@
 {
   "name": "assemble-markdown-import",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Assemble plugin for importing and parsing of markdown from data sources.",
   "main": "lib/index.js",
   "scripts": {
